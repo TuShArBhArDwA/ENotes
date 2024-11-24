@@ -1,5 +1,8 @@
 # ENotes - Online Notes Sharing Platform  
 
+![image](https://github.com/user-attachments/assets/34c34a49-f47a-40bc-b942-64ef227e3fd8)
+
+
 ENotes is a dynamic platform that facilitates seamless sharing of academic resources. Designed to enhance collaboration among students, it enables users to upload, download, and manage PDF notes efficiently in a secure and user-friendly environment.
 
 ---

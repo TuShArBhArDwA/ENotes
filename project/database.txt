@@ -1,0 +1,14 @@
+-- Create database
+CREATE DATABASE IF NOT EXISTS file_upload_db;
+
+-- Use the new database
+USE file_upload_db;
+
+-- Create the uploads table
+CREATE TABLE IF NOT EXISTS uploads (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    file_name VARCHAR(255) NOT NULL,
+    file_type VARCHAR(50) NOT NULL,
+    file_size INT NOT NULL,
+    upload_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
